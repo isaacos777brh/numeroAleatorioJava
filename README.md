@@ -26,12 +26,12 @@ acertar, exibe quantas tentativas foram necessárias.
    ```
 
 ## Exemplo de execução
-1 - Digite um número: 50
-2 - Menor que o que você digitou!
-3 - Digite um número: 25
-4 - Maior que o que você digitou!
-5 - Digite um número: 37
-6 - Acertou em 3 tentativa(s)!
+- Digite um número: 50
+- Menor que o que você digitou!
+- Digite um número: 25
+- Maior que o que você digitou!
+- Digite um número: 37
+- Acertou em 3 tentativa(s)!
 
 
 ## Próximas melhorias
